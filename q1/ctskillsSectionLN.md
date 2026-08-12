@@ -30,7 +30,7 @@ START
 totalcost = 0
 
 PRINT "Enter the number of items."
-READ numberofitems
+    READ numberofitems
 
 REPEAT numberofitems times
     PRINT "Select an item."
