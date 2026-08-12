@@ -14,7 +14,7 @@ The school canteen has a slow lunch process which causes delays for students bec
 
 **Step 3: Define Computational Thinking Approaches**
 
-**| Sub-Problem | CT Skill | Example Solution |**
+| Sub-Problem | CT Skill | Example Solution |
 |---|---|---|
 | Students take too long to decide what food to order. | Abstraction | Create a simplified menu showing food names, prices, and available items so students can quickly choose. |
 | The cashier manually calculates totals and gives change. | Algorithm Design | Create a step-by-step system that adds item prices, calculates the total, receives payment, and calculates the change automatically. |
@@ -30,7 +30,7 @@ START
 totalcost = 0
 
 PRINT "Enter the number of items."
-    READ numberofitems
+READ numberofitems
 
 REPEAT numberofitems times
     PRINT "Select an item."
