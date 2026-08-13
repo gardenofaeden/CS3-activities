@@ -1,7 +1,7 @@
 # Computational Thinking Exercise: "Smart School Canteen Queue"
 
-### Section: 9-Balingkilat                                                                            Score: 
-### C# / Name: #16 Judy Valera, #17 Kairi Lian Heart Barayoga, #18 Aeden Ysabel Bernardo              Date: 08/13/26
+### Section: 9-Balingkilat                                                                           
+### C# / Name: #16 Judy Valera, #17 Kairi Lian Heart Barayoga, #18 Aeden Ysabel Bernardo              
 
 Scenario
 
