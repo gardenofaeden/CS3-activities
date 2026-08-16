@@ -9,7 +9,11 @@
 **Instructions:**
 
 The problem: Finding the highest (Maximum) number from a given list of numbers.
-,
+| PseudoCode 1 | PseudoCode 2 |
+| ----------- | ----------- |
+| Algorithm FindMax1(numbers)<br>&emsp;max ← numbers[0]<br>&emsp;For i from 1 to length(numbers)-1<br>&emsp;&emsp;If numbers[i] > max Then<br>&emsp;&emsp;&emsp;max ← numbers[i]<br>&emsp;&emsp;EndIf<br>&emsp;EndFor<br>&emsp;Return max<br>EndAlgorithm | Algorithm FindMax2(numbers)<br>&emsp;For i from 0 to length(numbers)-1bigger ← true<br>&emsp;&emsp;For j from 0 to length(numbers)-1<br>&emsp;&emsp;&emsp;If numbers[j] > numbers[i] Then<br>&emsp;&emsp;&emsp;&emsp;bigger ← false<br>&emsp;&emsp;&emsp;EndIf<br>&emsp;&emsp;EndFor<br>&emsp;&emsp;If bigger = true Then<br>&emsp;&emsp;&emsp;Return numbers[i]<br>&emsp;&emsp;EndIf<br>&emsp;EndFor<br>EndAlgorithm |
+
+
 ##Questions with Checklists
 **1. Efficiency**
 Which algorithm is faster when the list of numbers is very large? Why?
