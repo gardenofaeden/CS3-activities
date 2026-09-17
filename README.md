@@ -1,4 +1,6 @@
-# CS3-activities
+# Aeden Ysabel M. Bernardo
+# 9-Balingkilat
+## CS3-activities
 https://github.com/gardenofaeden/CS3-activities/blob/main/q1/q1_sg2_a1.md<br>
 https://github.com/gardenofaeden/CS3-activities/blob/main/q1/q1_sg2_a2.md<br>
 https://github.com/gardenofaeden/CS3-activities/blob/main/q1/q1_sg2_a3.py<br>
